@@ -34,7 +34,7 @@
     "xmlbuilder": "15.1.1"
   },
   "devDependencies": {
-    "@types/node": "16.18.12",
+    "@types/node": "20.12.5",
     "eslint": "8.53.0",
     "eslint-config-airbnb-base": "15.0.0",
     "eslint-plugin-import": "2.29.0",
